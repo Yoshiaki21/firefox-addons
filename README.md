@@ -4,11 +4,5 @@
 
 ## インストール
 
-| アドイン | インストール | バージョン |
-|---------|------------|----------|
-<!-- img2tab-row -->
-| img2tab | [インストール](img2tab/img2tab-2.0.3.xpi) | 2.0.3 |
-<!-- /img2tab-row -->
-<!-- save-in-row -->
-| save-in | [インストール](save-in/save-in-1.0.0.xpi) | 1.0.0 |
-<!-- /save-in-row -->
+- [img2tab v2.0.3](img2tab/img2tab-2.0.3.xpi)
+- [save-in v1.0.0](save-in/save-in-1.0.0.xpi)
