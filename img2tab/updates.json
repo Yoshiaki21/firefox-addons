@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "img2tab@yoshiaki21": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://yoshiaki21.github.io/firefox-addons/img2tab/img2tab-1.0.0.xpi"
+        }
+      ]
+    }
+  }
+}
