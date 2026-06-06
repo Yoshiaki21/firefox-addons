@@ -5,4 +5,4 @@
 ## インストール
 
 - [img2tab v2.0.3.9](img2tab/img2tab-2.0.3.9.xpi)
-- [save-in v1.0.0](save-in/save-in-1.0.0.xpi)
+- [save-in v3.7.3.6](save-in/save-in-3.7.3.6.xpi)
