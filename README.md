@@ -2,16 +2,17 @@
 
 自作Firefoxアドインの配布・自動更新用リポジトリ
 
-## アドイン一覧
+## インストール
 
-| アドイン | update_url |
-|---------|------------|
-| img2tab | https://yoshiaki21.github.io/firefox-addons/img2tab/updates.json |
-| save-in | https://yoshiaki21.github.io/firefox-addons/save-in/updates.json |
+リンクをFirefoxで直接クリックしてください。
 
-## 更新手順
+| アドイン | インストール | バージョン |
+|---------|------------|----------|
+| img2tab | [インストール](img2tab/img2tab-2.0.3.xpi) | 2.0.3 |
+| save-in | [インストール](save-in/save-in-1.0.0.xpi) | 1.0.0 |
 
-1. 各リポジトリで `web-ext sign` を実行
-2. 生成された xpi をコピー
-3. updates.json のバージョンを更新
-4. git push → GitHub Pages に自動反映
+## 自動更新について
+
+インストール後は自動更新されます。手動で確認する場合は
+`about:addons` からアドオンを右クリック →「更新を確認」
+
